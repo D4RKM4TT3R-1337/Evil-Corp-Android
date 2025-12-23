@@ -30,7 +30,7 @@ evilcorp >> help
 ```bash
 
 git clone https://github.com/D4RKM4TT3R-1337/Evil-Corp-Android
-cd Evil-Corp
+cd Evil-Corp-Android
 bash setup.sh
 python3 main.py
 ```
